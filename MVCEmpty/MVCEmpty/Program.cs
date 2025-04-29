@@ -10,10 +10,11 @@ public class Program
 
         var app = builder.Build();
         app.UseHttpsRedirection();
-        app.MapDefaultControllerRoute();
 
-        //app.MapControllerRoute("default",
-        //    "{Controller=Home}/{Action=Index}/{id?}");
+        //app.MapDefaultControllerRoute();
+
+        app.MapControllerRoute("default",
+            "{Controller=Pizza}/{Action=Index}/{id?}");
         //app.MapGet("/bb-104", () => Results.Content("<h1>Nurlan</h1>",("text/html")));
         //app.MapGet("/home", () => new
         //{

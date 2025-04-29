@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Ulvi Abdullazada\\Desktop\\MVCStart\\MVCEmpty\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF29556F-4FB3-4376-B3C4-7548363AA0E0}|MVCEmpty\\MVCEmpty.csproj|c:\\users\\ulvi abdullazada\\desktop\\mvcstart\\mvcempty\\mvcempty\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF29556F-4FB3-4376-B3C4-7548363AA0E0}|MVCEmpty\\MVCEmpty.csproj|solutionrelative:mvcempty\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF29556F-4FB3-4376-B3C4-7548363AA0E0}|MVCEmpty\\MVCEmpty.csproj|c:\\users\\ulvi abdullazada\\desktop\\mvcstart\\mvcempty\\mvcempty\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF29556F-4FB3-4376-B3C4-7548363AA0E0}|MVCEmpty\\MVCEmpty.csproj|solutionrelative:mvcempty\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF29556F-4FB3-4376-B3C4-7548363AA0E0}|MVCEmpty\\MVCEmpty.csproj|c:\\users\\ulvi abdullazada\\desktop\\mvcstart\\mvcempty\\mvcempty\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BF29556F-4FB3-4376-B3C4-7548363AA0E0}|MVCEmpty\\MVCEmpty.csproj|solutionrelative:mvcempty\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BF29556F-4FB3-4376-B3C4-7548363AA0E0}|MVCEmpty\\MVCEmpty.csproj|c:\\users\\ulvi abdullazada\\desktop\\mvcstart\\mvcempty\\mvcempty\\views\\pizza\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF29556F-4FB3-4376-B3C4-7548363AA0E0}|MVCEmpty\\MVCEmpty.csproj|solutionrelative:mvcempty\\views\\pizza\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF29556F-4FB3-4376-B3C4-7548363AA0E0}|MVCEmpty\\MVCEmpty.csproj|c:\\users\\ulvi abdullazada\\desktop\\mvcstart\\mvcempty\\mvcempty\\views\\pizza\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF29556F-4FB3-4376-B3C4-7548363AA0E0}|MVCEmpty\\MVCEmpty.csproj|solutionrelative:mvcempty\\views\\pizza\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF29556F-4FB3-4376-B3C4-7548363AA0E0}|MVCEmpty\\MVCEmpty.csproj|c:\\users\\ulvi abdullazada\\desktop\\mvcstart\\mvcempty\\mvcempty\\models\\pizzaingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF29556F-4FB3-4376-B3C4-7548363AA0E0}|MVCEmpty\\MVCEmpty.csproj|solutionrelative:mvcempty\\models\\pizzaingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +26,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Ulvi Abdullazada\\Desktop\\MVCStart\\MVCEmpty\\MVCEmpty\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MVCEmpty\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Ulvi Abdullazada\\Desktop\\MVCStart\\MVCEmpty\\MVCEmpty\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MVCEmpty\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCEAAAA3AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ulvi Abdullazada\\Desktop\\MVCStart\\MVCEmpty\\MVCEmpty\\Views\\Pizza\\Detail.cshtml",
+              "RelativeDocumentMoniker": "MVCEmpty\\Views\\Pizza\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Ulvi Abdullazada\\Desktop\\MVCStart\\MVCEmpty\\MVCEmpty\\Views\\Pizza\\Detail.cshtml",
+              "RelativeToolTip": "MVCEmpty\\Views\\Pizza\\Detail.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T05:32:05.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PizzaIngredient.cs",
+              "DocumentMoniker": "C:\\Users\\Ulvi Abdullazada\\Desktop\\MVCStart\\MVCEmpty\\MVCEmpty\\Models\\PizzaIngredient.cs",
+              "RelativeDocumentMoniker": "MVCEmpty\\Models\\PizzaIngredient.cs",
+              "ToolTip": "C:\\Users\\Ulvi Abdullazada\\Desktop\\MVCStart\\MVCEmpty\\MVCEmpty\\Models\\PizzaIngredient.cs",
+              "RelativeToolTip": "MVCEmpty\\Models\\PizzaIngredient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T07:04:04.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T05:23:29.068Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ulvi Abdullazada\\Desktop\\MVCStart\\MVCEmpty\\MVCEmpty\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVCEmpty\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Ulvi Abdullazada\\Desktop\\MVCStart\\MVCEmpty\\MVCEmpty\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "MVCEmpty\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ulvi Abdullazada\\Desktop\\MVCStart\\MVCEmpty\\MVCEmpty\\Views\\Pizza\\Add.cshtml",
+              "RelativeDocumentMoniker": "MVCEmpty\\Views\\Pizza\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Ulvi Abdullazada\\Desktop\\MVCStart\\MVCEmpty\\MVCEmpty\\Views\\Pizza\\Add.cshtml",
+              "RelativeToolTip": "MVCEmpty\\Views\\Pizza\\Add.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-28T07:03:14.613Z",
+              "WhenOpened": "2025-04-29T05:10:40.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PizzaController.cs",
+              "DocumentMoniker": "C:\\Users\\Ulvi Abdullazada\\Desktop\\MVCStart\\MVCEmpty\\MVCEmpty\\Controllers\\PizzaController.cs",
+              "RelativeDocumentMoniker": "MVCEmpty\\Controllers\\PizzaController.cs",
+              "ToolTip": "C:\\Users\\Ulvi Abdullazada\\Desktop\\MVCStart\\MVCEmpty\\MVCEmpty\\Controllers\\PizzaController.cs",
+              "RelativeToolTip": "MVCEmpty\\Controllers\\PizzaController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAhwC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:35:05.713Z",
               "EditorCaption": ""
             }
           ]
